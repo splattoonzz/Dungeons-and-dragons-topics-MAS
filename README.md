@@ -1,6 +1,6 @@
 # Monika After Story: Dungeons & Dragons Submod
 
-**Author:** [Your Name]  
+**Author:** TiredGeek._
 **Version:** 1.0  
 **Compatible with:** Monika After Story (MAS)  
 
